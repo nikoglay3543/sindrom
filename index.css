@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: rgba(76, 76, 128, 0.801);
+    color:white;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-color:#6A7039 ;
+    color: darkgreen;
+}
+   footer p{
+        background-color: #6A7039;
+} 
+   nav a {
+       color:back;
+      background-color:darkolivegreen; 
+   }
+  .danil{
+       background-color: orangered;
+   }
+   p{
+       font-size: 20px;
+   }
+ h2{
+     font-size: 40px;
+     color: blue;
+ }
+ a{
+    color: black; 
+ }
